@@ -24,4 +24,3 @@ Production-ready portfolio website for Paul Anyebe, a Nigerian AI Generalist, Cy
 - SEO metadata and accessible focus states
 - Resend-ready secure contact endpoint
 - Production-ready structure for Node hosting, VPS deployment, Docker, and platforms that support Next.js server rendering
-- 
